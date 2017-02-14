@@ -1,0 +1,343 @@
+﻿html{
+margin:0px;
+
+	
+}
+body{
+    width: 1200px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 0;
+    display: block;
+    height: 1700px;
+}
+header {
+
+padding-top: 8px;
+letter-spacing: 10px;
+background-color: rgb(52, 38, 94);
+margin: 0;
+padding-bottom: 10px;
+padding-bottom: 8px;
+font-size: 20px;
+}
+
+header h1 {
+    margin-left: 30px;
+    color: white;
+    font-family: "Maiandra GD";
+}
+nav {
+background-color: rgb(178, 162, 82);
+height: 60px;
+width: 1196px;
+padding: 2px;
+}
+.banner{
+    padding: 0px;
+    width: 1200px;
+    height: 350px;
+    display: block;
+  
+    margin-top: 0px;
+}
+
+
+nav ul{
+
+list-style: none;
+}
+nav  li{
+float:left;
+width:200px;
+
+}
+
+nav  a{
+
+font-size: 30px;
+ font-family: "Maiandra GD";
+text-decoration: none;
+
+color:white;
+}
+
+section {
+    float: left;
+    width: 800px;
+    background-color: darkkhaki;
+    height: 1290px;
+    margin-top: 0 auto;
+    }
+.class_1 {
+float: left;
+ font-family: "Maiandra GD";
+height: 300px;
+width: 360px;
+background-color: rgb(205,50,50);
+margin: 10px;
+color: white;
+margin-left: 32px;
+}
+.class_1 h1 {
+    background-color: rgb(48,13,13);
+    padding-top: 10px;
+    margin-top: 0px;
+    padding-bottom: 10px;
+    letter-spacing: 5px;
+    text-align: center;
+    padding: 15px;
+  color:white;  
+}
+
+.class_1 p {
+     font-family: "Maiandra GD";
+    padding: 4px;
+    line-height: 30px;
+    font-size: 20px;
+    
+}
+.link{
+ font-family: "Maiandra GD";
+font-size: 20px;
+text-decoration:none;
+padding:8px;
+  color:yellow;
+}
+.link a{
+
+text-decoration:none;
+
+}
+.link :hover{
+
+color:blue;
+
+}
+.n_links {
+
+    color:white;
+
+
+}
+.n_links a:hover {
+
+color:#00ff21;  
+
+
+}
+.class_2 {
+     font-family: "Maiandra GD";
+float: left;
+height: 300px;
+width: 360px;
+margin: 10px;
+background-color: white;
+}
+.class_2 h1 {
+    background-color: #546B03;
+    padding-top: 10px;
+    margin-top: 0px;
+    padding-bottom: 10px;
+    letter-spacing: 5px;
+    text-align: center;
+    padding: 15px;
+    color:white;
+}
+.class_3 {
+float: left;
+height: 300px;
+ font-family: "Maiandra GD";
+width: 360px;
+margin: 10px;
+background-color: white;
+margin-left: 32px;
+}
+.class_3 h1 {
+background-color: rgb(0, 33, 65);
+padding-top: 10px;
+margin-top: 0px;
+padding-bottom: 10px;
+letter-spacing: 5px;
+text-align: center;
+padding: 15px;
+ color:white;
+}
+.class_4 {
+     font-family: "Maiandra GD";
+float: left;
+height: 300px;
+width: 360px;
+margin: 10px;
+background-color: white;
+}
+.class_4 h1 {
+background-color: rgb(129, 49, 15);
+padding-top: 10px;
+margin-top: 0px;
+padding-bottom: 10px;
+letter-spacing: 5px;
+text-align: center;
+padding: 15px;
+ color:white;
+}
+.class_5 {
+float: left;
+ font-family: "Maiandra GD";
+height: 300px;
+width: 360px;
+margin: 10px;
+margin-left: 32px;
+background-color: white;
+}
+
+.class_5 h1 {
+background-color: rgb(2, 58, 50);
+padding-top: 10px;
+margin-top: 0px;
+padding-bottom: 10px;
+letter-spacing: 5px;
+text-align: center;
+padding: 15px;
+ color:white;
+}
+.class_6 {
+     font-family: "Maiandra GD";
+float: left;
+height: 300px;
+width: 360px;
+margin: 10px;
+font-size: 20px;
+color:rgb(205,50,50);
+background-color: white;
+}
+.class_6 h1 {
+background-color: rgb(121, 111, 6);
+padding-top: 10px;
+margin-top: 0px;
+padding-bottom: 10px;
+letter-spacing: 5px;
+text-align: center;
+padding: 15px;
+ color:white;
+}
+    .class_6 p {
+    
+    margin:4px;
+    }
+.class_7 {
+float: left;
+height: 300px;
+width: 360px;
+margin: 10px;
+ font-family: "Maiandra GD";
+margin-left: 32px;
+background-color: white;
+}
+.class_7 h1 {
+background-color: rgb(124, 61, 16);
+padding-top: 10px;
+margin-top: 0px;
+padding-bottom: 10px;
+letter-spacing: 5px;
+text-align: center;
+padding: 15px;
+ color:white;
+}
+.class_8 {
+float: left;
+ font-family: "Maiandra GD";
+height: 300px;
+width: 360px;
+margin: 10px;
+background-color:white;
+}
+.class_8 h1 {
+background-color: rgb(131, 6, 6);
+padding-top: 10px;
+margin-top: 0px;
+padding-bottom: 10px;
+letter-spacing: 5px;
+text-align: center;
+padding: 15px;
+ color:white;
+}
+
+aside {
+width: 400px;
+background-color: rgb(160, 5, 5);
+float: right;
+height: 1290px;
+ font-family: "Maiandra GD";
+ color:white;
+}
+
+.aside_log_in {
+border-bottom: 4px solid rgb(2, 58, 50);
+
+}
+
+.login_header {
+height: 40px;
+ font-family: "Maiandra GD";
+background-color:rgb(223, 174, 18);
+margin-top: 0px;
+color: rgb(0, 33, 65);
+font-size: 40px;
+text-align: center;
+}
+footer {
+
+background-color:rgb(223, 174, 18);
+height:50px;
+clear:both;
+
+}
+    footer p {
+    
+    font-family: "Maiandra GD";
+    font-size:30px;
+    margin:0 auto;
+    width:600px;
+    margin-top:40px;
+ 
+    
+       }
+.cl_ban {
+height:351px;
+width:614px;
+float:left;
+margin-left:0px;
+
+ margin-right:0px;
+}
+.cl_ban_1 {
+    font-family: "Maiandra GD";
+    height: 351px;
+    width: 275px;
+    float: left;
+    color:rgb(255, 0, 0);
+      margin-right: 0px;
+     
+     background-color:rgb(230, 232, 135);
+    letter-spacing:1px;
+    
+}
+    .cl_ban_1 h1 {
+   
+ }
+.cl_ban_2 {
+     font-family: "Maiandra GD";
+height:351px;
+width:310px;
+float:left;
+padding:-1px;
+margin:0 auto;
+
+   color:rgb(255, 0, 0);
+ background-color:rgb(230, 232, 135);
+}
+.extra {
+font-family: "Maiandra GD";
+color:blue;
+}

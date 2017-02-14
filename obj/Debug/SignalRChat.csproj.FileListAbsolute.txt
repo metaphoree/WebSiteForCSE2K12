@@ -1,0 +1,17 @@
+C:\Users\Nabil\Desktop\template\SignalRChatRoom\SignalRChat\bin\SignalRChat.dll
+C:\Users\Nabil\Desktop\template\SignalRChatRoom\SignalRChat\bin\SignalRChat.pdb
+C:\Users\Nabil\Desktop\template\SignalRChatRoom\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Nabil\Desktop\template\SignalRChatRoom\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Nabil\Desktop\template\SignalRChatRoom\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Nabil\Desktop\template\SignalRChatRoom\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nabil\Desktop\template\SignalRChatRoom\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nabil\Desktop\template\SignalRChatRoom\SignalRChat\bin\Newtonsoft.Json.dll
+C:\Users\Nabil\Desktop\template\SignalRChatRoom\SignalRChat\bin\Owin.dll
+C:\Users\Nabil\Desktop\template\SignalRChatRoom\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Nabil\Desktop\template\SignalRChatRoom\SignalRChat\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Nabil\Desktop\template\SignalRChatRoom\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Nabil\Desktop\template\SignalRChatRoom\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nabil\Desktop\template\SignalRChatRoom\SignalRChat\bin\Newtonsoft.Json.xml
+C:\Users\Nabil\Desktop\template\SignalRChatRoom\SignalRChat\obj\Debug\SignalRChat.csprojResolveAssemblyReference.cache
+C:\Users\Nabil\Desktop\template\SignalRChatRoom\SignalRChat\obj\Debug\SignalRChat.dll
+C:\Users\Nabil\Desktop\template\SignalRChatRoom\SignalRChat\obj\Debug\SignalRChat.pdb

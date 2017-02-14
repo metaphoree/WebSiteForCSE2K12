@@ -1,0 +1,106 @@
+D:\desktop new\MY\PROJECT-13\PROJECT\bin\SignalRChat.dll
+D:\desktop new\MY\PROJECT-13\PROJECT\bin\SignalRChat.pdb
+D:\desktop new\MY\PROJECT-13\PROJECT\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\desktop new\MY\PROJECT-13\PROJECT\bin\Microsoft.AspNet.SignalR.Owin.dll
+D:\desktop new\MY\PROJECT-13\PROJECT\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\desktop new\MY\PROJECT-13\PROJECT\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\desktop new\MY\PROJECT-13\PROJECT\bin\Microsoft.Web.Infrastructure.dll
+D:\desktop new\MY\PROJECT-13\PROJECT\bin\Newtonsoft.Json.dll
+D:\desktop new\MY\PROJECT-13\PROJECT\bin\Owin.dll
+D:\desktop new\MY\PROJECT-13\PROJECT\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\desktop new\MY\PROJECT-13\PROJECT\bin\Microsoft.AspNet.SignalR.Owin.xml
+D:\desktop new\MY\PROJECT-13\PROJECT\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\desktop new\MY\PROJECT-13\PROJECT\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\desktop new\MY\PROJECT-13\PROJECT\bin\Newtonsoft.Json.xml
+D:\desktop new\MY\PROJECT-13\PROJECT\obj\Debug\PROJECT.csprojResolveAssemblyReference.cache
+D:\desktop new\MY\PROJECT-13\PROJECT\obj\Debug\SignalRChat.dll
+D:\desktop new\MY\PROJECT-13\PROJECT\obj\Debug\SignalRChat.pdb
+D:\desktop new\mu3\PROJECT-13\PROJECT\bin\SignalRChat.dll
+D:\desktop new\mu3\PROJECT-13\PROJECT\bin\SignalRChat.pdb
+D:\desktop new\mu3\PROJECT-13\PROJECT\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\desktop new\mu3\PROJECT-13\PROJECT\bin\Microsoft.AspNet.SignalR.Owin.dll
+D:\desktop new\mu3\PROJECT-13\PROJECT\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\desktop new\mu3\PROJECT-13\PROJECT\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\desktop new\mu3\PROJECT-13\PROJECT\bin\Microsoft.Web.Infrastructure.dll
+D:\desktop new\mu3\PROJECT-13\PROJECT\bin\Newtonsoft.Json.dll
+D:\desktop new\mu3\PROJECT-13\PROJECT\bin\Owin.dll
+D:\desktop new\mu3\PROJECT-13\PROJECT\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\desktop new\mu3\PROJECT-13\PROJECT\bin\Microsoft.AspNet.SignalR.Owin.xml
+D:\desktop new\mu3\PROJECT-13\PROJECT\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\desktop new\mu3\PROJECT-13\PROJECT\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\desktop new\mu3\PROJECT-13\PROJECT\bin\Newtonsoft.Json.xml
+D:\desktop new\mu3\PROJECT-13\PROJECT\obj\Debug\PROJECT.csprojResolveAssemblyReference.cache
+D:\desktop new\mu3\PROJECT-13\PROJECT\obj\Debug\SignalRChat.dll
+D:\desktop new\mu3\PROJECT-13\PROJECT\obj\Debug\SignalRChat.pdb
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\SignalRChat.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\SignalRChat.pdb
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\Microsoft.AspNet.SignalR.Owin.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\Microsoft.Web.Infrastructure.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\Newtonsoft.Json.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\Owin.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\Microsoft.AspNet.SignalR.Owin.xml
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\Newtonsoft.Json.xml
+D:\desktop\mu3\PROJECT-13\PROJECT\obj\Debug\PROJECT.csprojResolveAssemblyReference.cache
+D:\desktop\mu3\PROJECT-13\PROJECT\obj\Debug\SignalRChat.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\obj\Debug\SignalRChat.pdb
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\Microsoft.WindowsAzure.Storage.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\HtmlAgilityPack.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\AjaxMin.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\Microsoft.Data.OData.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\Microsoft.Data.Edm.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\System.Spatial.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\AjaxControlToolkit.pdb
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\Microsoft.WindowsAzure.Storage.xml
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\Microsoft.Data.OData.xml
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\Microsoft.Data.Edm.xml
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\System.Spatial.xml
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\ar\AjaxControlToolkit.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\cs\AjaxControlToolkit.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\de\AjaxControlToolkit.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\es\AjaxControlToolkit.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\fr\AjaxControlToolkit.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\he\AjaxControlToolkit.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\hi\AjaxControlToolkit.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\it\AjaxControlToolkit.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\ja\AjaxControlToolkit.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\ko\AjaxControlToolkit.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\nl\AjaxControlToolkit.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\pl\AjaxControlToolkit.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\pt\AjaxControlToolkit.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\ru\AjaxControlToolkit.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\de\Microsoft.Data.OData.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\es\Microsoft.Data.OData.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\fr\Microsoft.Data.OData.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\it\Microsoft.Data.OData.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\ja\Microsoft.Data.OData.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\ko\Microsoft.Data.OData.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\ru\Microsoft.Data.OData.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\de\Microsoft.Data.Edm.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\es\Microsoft.Data.Edm.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\it\Microsoft.Data.Edm.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\de\System.Spatial.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\es\System.Spatial.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\fr\System.Spatial.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\it\System.Spatial.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\ja\System.Spatial.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\ko\System.Spatial.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\ru\System.Spatial.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\zh-Hans\System.Spatial.resources.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\zh-Hant\System.Spatial.resources.dll

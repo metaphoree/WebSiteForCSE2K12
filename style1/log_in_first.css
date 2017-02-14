@@ -1,0 +1,111 @@
+﻿html{
+background-color: white;
+	
+}
+body{
+    width: 1270px;
+    margin: 0 0px 0 auto;
+    background-color: #B22222;
+    padding: 0;
+    display: block;
+}
+header {
+
+padding-top: 8px;
+letter-spacing: 10px;
+background-color: rgb(52, 38, 94);
+margin: 0;
+padding-bottom: 10px;
+padding-bottom: 8px;
+font-size: 20px;
+}
+.p_link a{
+color:yellow;
+text-decoration:none;
+}
+.p_link a:hover {
+
+color:green;
+}
+nav {
+background-color: rgb(178, 162, 82);
+height: 60px;
+width: 1265px;
+padding: 2px;
+}
+nav ul{
+
+list-style: none;
+}
+nav  li{
+float:left;
+width:250px;
+
+}
+
+nav  a{
+
+font-size: 30px;
+ font-family: "Maiandra GD";
+text-decoration: none;
+
+color:white;
+}
+
+header h1 {
+    margin-left: 30px;
+    color: white;
+    font-family: "Maiandra GD";
+}
+aside {
+width: 440px;
+background-color: rgb(160, 5, 5);
+float: left;
+height: 900px;
+ font-family: "Maiandra GD";
+ color:white;
+}
+.link{
+ font-family: "Maiandra GD";
+font-size: 20px;
+text-decoration:none;
+padding:8px;
+  color:yellow;
+}
+.link a{
+
+text-decoration:none;
+
+}
+.link :hover{
+
+color:blue;
+
+}
+.n_links {
+width:300px;
+    color:white;
+    float:right;
+    height: 343px;
+}
+.n_links a:hover {
+
+color:#00ff21;  
+
+
+}
+footer {
+
+background-color:rgb(223, 174, 18);
+height:70px;
+clear:both;
+}
+
+.pro_pic {
+    border: 4px #FF0000;
+    float: left;
+    width: 400px;
+    height: 436px;
+    font-size: 30px;
+
+}

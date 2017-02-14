@@ -1,0 +1,34 @@
+D:\desktop new\MY\PROJECT-13\PROJECT\bin\SignalRChat.dll
+D:\desktop new\MY\PROJECT-13\PROJECT\bin\SignalRChat.pdb
+D:\desktop new\MY\PROJECT-13\PROJECT\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\desktop new\MY\PROJECT-13\PROJECT\bin\Microsoft.AspNet.SignalR.Owin.dll
+D:\desktop new\MY\PROJECT-13\PROJECT\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\desktop new\MY\PROJECT-13\PROJECT\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\desktop new\MY\PROJECT-13\PROJECT\bin\Microsoft.Web.Infrastructure.dll
+D:\desktop new\MY\PROJECT-13\PROJECT\bin\Newtonsoft.Json.dll
+D:\desktop new\MY\PROJECT-13\PROJECT\bin\Owin.dll
+D:\desktop new\MY\PROJECT-13\PROJECT\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\desktop new\MY\PROJECT-13\PROJECT\bin\Microsoft.AspNet.SignalR.Owin.xml
+D:\desktop new\MY\PROJECT-13\PROJECT\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\desktop new\MY\PROJECT-13\PROJECT\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\desktop new\MY\PROJECT-13\PROJECT\bin\Newtonsoft.Json.xml
+D:\desktop new\MY\PROJECT-13\PROJECT\obj\Release\PROJECT.csprojResolveAssemblyReference.cache
+D:\desktop new\MY\PROJECT-13\PROJECT\obj\Release\SignalRChat.dll
+D:\desktop new\MY\PROJECT-13\PROJECT\obj\Release\SignalRChat.pdb
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\SignalRChat.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\SignalRChat.pdb
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\Microsoft.AspNet.SignalR.Owin.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\Microsoft.Web.Infrastructure.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\Newtonsoft.Json.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\Owin.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\Microsoft.AspNet.SignalR.Owin.xml
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\desktop\mu3\PROJECT-13\PROJECT\bin\Newtonsoft.Json.xml
+D:\desktop\mu3\PROJECT-13\PROJECT\obj\Release\PROJECT.csprojResolveAssemblyReference.cache
+D:\desktop\mu3\PROJECT-13\PROJECT\obj\Release\SignalRChat.dll
+D:\desktop\mu3\PROJECT-13\PROJECT\obj\Release\SignalRChat.pdb
